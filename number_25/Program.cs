@@ -34,8 +34,6 @@ void Exponentiation(string enterA, string enterB)
     else 
     {
         Console.WriteLine("{0}, {1} -> Некорректный ввод!", a, b);
-    
-    }
-    
+    }  
 }
 Exponentiation(a, b);
